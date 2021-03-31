@@ -18,4 +18,3 @@
 
 - [Создаём веб-приложение с бэкендом на Django и фронтендом на React](https://tproger.ru/translations/django-react-webapp/)
 - [Fundamentals of Front-End Django](https://mkdev.me/en/posts/fundamentals-of-front-end-django)
->>>>>>> bf8ae22c27e7aaddd06af59c4f0b8037d80ab59d
