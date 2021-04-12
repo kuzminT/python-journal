@@ -11,6 +11,7 @@
 # Tests
 
 - [How to Provide Test Fixtures for Django Models in Pytest](https://realpython.com/django-pytest-fixtures/)
+- [Test-Driven Development With PyTest](https://realpython.com/courses/test-driven-development-pytest/)
 
 # Frontend
 
